@@ -1,0 +1,3 @@
+[submodule "Hermes-AcquisitionService"]
+	path = Hermes-AcquisitionService
+	url = https://github.com/zoltanbak/MQTT-to-gRPC.git
