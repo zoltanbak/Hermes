@@ -1,3 +1,6 @@
 [submodule "Hermes-AcquisitionService"]
 	path = Hermes-AcquisitionService
 	url = https://github.com/zoltanbak/MQTT-to-gRPC.git
+[submodule "Hermes-DatabaseService"]
+	path = Hermes-DatabaseService
+	url = https://github.com/zoltanbak/gRPC-to-multiple-databases.git
